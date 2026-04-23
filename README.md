@@ -1,6 +1,6 @@
 # Hi there 👋
 ## snake 
-
+![snake](https://github.com/NelikKKL/NelikKKL/blob/main/github-contribution-grid-snake-dark.svg)
 ## Languages
 ![python](py.svg) ![js](js.svg)
 ## tools
