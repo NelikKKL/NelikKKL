@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="18" fill="white"/>
+  
+  <g transform="translate(8, 6)">
+    <path d="M24 6V18M24 18L28 14M24 18L20 14" stroke="black" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <path d="M8 18V38C8 39.1 8.9 40 10 40H38C39.1 40 40 39.1 40 38V22C40 20.9 39.1 20 38 20H24L21 16H10C8.9 16 8 16.9 8 18Z" stroke="black" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <text x="24" y="33" text-anchor="middle" font-family="Verdana, sans-serif" font-weight="900" font-size="11" fill="black">md</text>
+  </g>
+</svg>
