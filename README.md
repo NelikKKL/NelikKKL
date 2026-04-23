@@ -1,4 +1,7 @@
 ### Hi there 👋
+##Languages
+
+![python](py.svg)
 
 ## Stats✨
 
