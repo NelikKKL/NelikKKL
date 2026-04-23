@@ -3,8 +3,8 @@
 # ![snake](https://github.com/NelikKKL/NelikKKL/blob/main/github-contribution-grid-snake-dark.svg)
 ## Languages
 ![python](py.svg) ![js](js.svg)
-## tools
-![git](git.svg)
+## skils
+![git](git.svg) ![md](md.svg)
 ## Stats✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelikKKL&theme=dracula&show_icons=true&hide_border=true&count_private=true)
