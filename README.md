@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## Languages
 ![python](py.svg) ![js](js.svg)
 ## tools
@@ -11,7 +11,8 @@
 
 ### My 3D engine 📦
 
-### [click](https://github.com/NelikKKL/OMM-model)#
+### [click](https://github.com/NelikKKL/OMM-model)
+
 # What are you doing here
 
 ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
