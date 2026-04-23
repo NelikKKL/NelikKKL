@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NelikKKL=NelikKKL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelikKKL)
 
 ![HIlicopter](space.gif)
 
