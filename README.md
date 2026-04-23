@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NelikKKL=NelikKKL)
+
 ![HIlicopter](space.gif)
 
 What are you doing here???
