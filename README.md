@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## Languages
 ![python](py.svg) ![js](js.svg)
-
-##tools
+## tools
 ![git](git.svg)
 ## Stats✨
 
