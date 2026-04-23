@@ -1,8 +1,9 @@
 ### Hi there 👋
-# Languages
-
+## Languages
 ![python](py.svg) ![js](js.svg)
 
+##tools
+![git](git.svg)
 ## Stats✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelikKKL&theme=dracula&show_icons=true&hide_border=true&count_private=true)
